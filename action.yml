@@ -1,4 +1,4 @@
-name: 'Dastardly Scan Action'
+name: 'Dastardly Scan Action' for ABEL
 description: 'Runs a Dastardly scan against a target site'
 author: 'PortSwigger'
 inputs:
